@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://cee0tp2dmyhhi"]
+
+[node name="AnaSahne" type="Node3D"]
+transform = Transform3D(10, 0, 0, 0, 15.152, 0, 0, 0, 12.727, 0, 0, 0)
+visible = false
